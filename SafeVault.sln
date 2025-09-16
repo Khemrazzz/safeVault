@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVault.Core", "SafeVault.Core\SafeVault.Core.csproj", "{187AAB4D-11BE-4C35-866A-1561B83087CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVault.Api", "SafeVault.Api\SafeVault.Api.csproj", "{F9A22150-4875-4DB0-B60B-97FF56253F97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafeVault.Tests", "SafeVault.Tests\SafeVault.Tests.csproj", "{3C73CF16-A28A-4988-B05E-1C5A66CC2AAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{187AAB4D-11BE-4C35-866A-1561B83087CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187AAB4D-11BE-4C35-866A-1561B83087CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187AAB4D-11BE-4C35-866A-1561B83087CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187AAB4D-11BE-4C35-866A-1561B83087CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A22150-4875-4DB0-B60B-97FF56253F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A22150-4875-4DB0-B60B-97FF56253F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A22150-4875-4DB0-B60B-97FF56253F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A22150-4875-4DB0-B60B-97FF56253F97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C73CF16-A28A-4988-B05E-1C5A66CC2AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C73CF16-A28A-4988-B05E-1C5A66CC2AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C73CF16-A28A-4988-B05E-1C5A66CC2AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C73CF16-A28A-4988-B05E-1C5A66CC2AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
